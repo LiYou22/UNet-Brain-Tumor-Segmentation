@@ -1,0 +1,10 @@
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.26.0
+scipy==1.14.1
+scikit-image==0.24.0
+matplotlib==3.9.2
+graphviz==0.20.3
+torchviz==0.0.3
+tqdm==4.66.5
+nibabel==5.3.2
