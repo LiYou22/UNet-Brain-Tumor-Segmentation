@@ -175,3 +175,8 @@ cython_debug/
 
 # Mac
 .DS_Store
+
+# Project
+Task01_BrainTumour.tar
+Task01_BrainTumour/
+checkpoints_brain_tumor/
