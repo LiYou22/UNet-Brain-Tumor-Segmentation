@@ -27,7 +27,7 @@ Run the notebook to train & evaluate the model.
 
 ![Training & Validation Loss & Dice](visualization/train/cross_validation_curves.png)
 
-### Inference Examp;es
+### Inference Examples
 
 ![example_15](visualization/evaluate/example_15.png)
 
